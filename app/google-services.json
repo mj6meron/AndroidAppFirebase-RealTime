@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577625709463",
+    "firebase_url": "https://lab2firebase-d5206-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lab2firebase-d5206",
+    "storage_bucket": "lab2firebase-d5206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577625709463:android:5a9430d14290400be202d2",
+        "android_client_info": {
+          "package_name": "com.example.lab2firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577625709463-nne8iitrl8mohibbrrp2083u8ips8bb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY19QzGKgu_n5F0kefdVjLkgvhWsFyas0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577625709463-nne8iitrl8mohibbrrp2083u8ips8bb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

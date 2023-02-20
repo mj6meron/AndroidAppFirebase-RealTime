@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab2Firebase</string>
+
+    <string name="object1">LAMP:</string>
+    <string name="object2">DOOR:</string>
+    <string name="object3">WINDOW:</string>
+
+
+    <string name="object1off">OFF</string>
+    <string name="object2off">CLOSED</string>
+    <string name="object3off">CLOSED</string>
+
+    <string name="object1on">ON</string>
+    <string name="object2on">OPEN</string>
+    <string name="object3on">OPEN</string>
+
+</resources>
